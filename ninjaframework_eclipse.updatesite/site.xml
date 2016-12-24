@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ninjaframework_eclipse.feature_0.1.0.201612250150.jar" id="ninjaframework_eclipse.feature" version="0.1.0.201612250150">
+      <category name="ninjaframework-eclipse"/>
+   </feature>
+   <category-def name="ninjaframework-eclipse" label="ninjaframework-eclipse">
+      <description>
+         A IDE for Ninjaframework.
+      </description>
+   </category-def>
+</site>
