@@ -1,6 +1,6 @@
 # ninjaframework-eclipse
 This is an eclipse plugin for the [Ninja framework](www.ninjaframework.org).
-ninjaframework-elipse needs JDT.
+ninjaframework-eclipse needs JDT.
 
 ## eclipse update site:
 ```
